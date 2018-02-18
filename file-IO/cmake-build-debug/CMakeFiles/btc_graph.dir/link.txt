@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/btc_graph.dir/main.c.o  -o btc_graph 
